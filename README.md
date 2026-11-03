@@ -1,8 +1,8 @@
 # wuyoukeji8888-stack/WYck
 
-An APT source for jailbroken iOS, published with Apelin.
+An APT source for jailbroken iOS.
 
-Add `https://wuyoukeji8888-stack.github.io/WYck/` in Irisin.
+Add `https://wuyoukeji8888-stack.github.io/WYck/` in Irisin or Sileo.
 
 ## How it works
 
